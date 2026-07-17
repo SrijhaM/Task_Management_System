@@ -1,0 +1,29 @@
+[
+    {
+        "id": "3b250c88",
+        "title": "Python project",
+        "description": "Complete JSON Module",
+        "priority": "High",
+        "status": "Pending",
+        "created_date": "30-06-2026",
+        "due_date": "10-07-2026"
+    },
+    {
+        "id": "ce35d403",
+        "title": "python",
+        "description": "complete the module",
+        "priority": "High",
+        "status": "Completed",
+        "created_date": "01-07-2026",
+        "due_date": "12-07-2026"
+    },
+    {
+        "id": "28f6a04f",
+        "title": "Web project",
+        "description": "create the page",
+        "priority": "High",
+        "status": "Pending",
+        "created_date": "01-07-2026",
+        "due_date": "22-07-2026"
+    }
+]
